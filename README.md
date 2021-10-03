@@ -2,7 +2,8 @@
 - 👀 I’m interested in web devdevelopment
 - 🌱 I’m currently learning reactJS
 - 💞️ I’m looking to collaborate projects on web development 
-- 📫 How to reach me ...
+- 📫 How to reach me www.linkedin.com/in/rahulsangamnere
+
 
 <!---
 SangamnereRahul/SangamnereRahul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
